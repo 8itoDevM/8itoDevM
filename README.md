@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @8itoDevM
-- 👀 I’m interested in programming, marcial arts, music prodution, and more
+- 👀 I’m interested in programming, marcial arts, music production, and more
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on Games and WebSites
 - 📫 How to reach me on my instagram gustavo.marcolino_8
