@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Games and WebSites
 - 📫 How to reach me on my instagram gustavo.marcolino_8
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: idk, imma a Karate and Muay Thai fighter, but also a C#, Java, Python, VB, SQL, JavaSript, HTML, CSS, Delphi dev
+- ⚡ Fun fact: idk, i'm a Karate and Muay Thai fighter, but also a C#, Java, Python, VB, SQL, JavaSript, HTML, CSS, Delphi dev
 
 <!---
 8itoDevM/8itoDevM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
