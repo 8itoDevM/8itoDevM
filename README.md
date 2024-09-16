@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @8itoDevM
+- 👋 Hi, I’m Gustavo Marcolino
 - 👀 I’m interested in programming, marcial arts, music production, and more
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on Games and WebSites
