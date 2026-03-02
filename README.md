@@ -1,20 +1,20 @@
-# 👋 Hello, I'm Gustavo
+# Hello, I'm Gustavo
 
-💻 Software Developer passionate about technology, systems, and game development.  
-🚀 Currently focused on **Backend Development with .NET and APIs**.  
-🎮 Also experienced with **Unity and C++ game development**.
+Software Developer passionate about technology, systems, and game development.  
+Currently focused on **Backend Development with .NET and APIs**.  
+Also experienced with **Unity and C++ game development**.
 
 I enjoy learning by building real projects and exploring how systems work internally.
 
-## 🧠 About Me
+# About Me
 
-- 🔭 Currently learning: **ASP.NET Core, REST APIs, Entity Framework**
-- 🌱 Expanding knowledge in: **Backend architecture and databases**
-- 🎮 Background in: **Game development with Unity (C#)**
-- ⚙️ Interested in: Systems design, engines, and performance
-- 📍 Brazil
+- Currently learning: **ASP.NET Core, REST APIs, Entity Framework**
+- Expanding knowledge in: **Backend architecture and databases**
+- Background in: **Game development with Unity (C#)**
+- Interested in: Systems design, engines, and performance
+- Brazil
 
-## 🛠️ Tech Stack
+# Tech Stack
 
 ### Languages
 - C#
@@ -44,8 +44,6 @@ I enjoy learning by building real projects and exploring how systems work intern
 - Unreal Engine
 - Godot
 
-## 🤝 Connect With Me
+## Connect With Me
 
 - LinkedIn: www.linkedin.com/in/gustavo-marcolino-7184213b2
-
-⭐ Always learning.
