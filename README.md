@@ -6,13 +6,14 @@ Also experienced with **Unity and C++ game development**.
 
 I enjoy learning by building real projects and exploring how systems work internally.
 
-# About Me
+## About Me
 
-- Currently learning: **ASP.NET Core, REST APIs, Entity Framework**
-- Expanding knowledge in: **Backend architecture and databases**
-- Background in: **Game development with Unity (C#)**
-- Interested in: Systems design, engines, and performance
-- Brazil
+- Currently learning: Playwright, JavaScript, and test automation
+- Knowledge in: ASP.NET Core, REST APIs, Entity Framework, and C#
+- Background in: Software Quality Assurance, technical support, and game development with Unity (C#)
+- Expanding knowledge in: Software testing, backend architecture, and databases
+- Interested in: Software engineering, systems design, game development, and performance
+- Brazil 🇧🇷
 
 # Tech Stack
 
