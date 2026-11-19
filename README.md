@@ -8,10 +8,10 @@ I enjoy learning by building real projects and exploring how systems work intern
 
 ## About Me
 
-- Currently learning: Playwright, JavaScript, and test automation
-- Knowledge in: ASP.NET Core, REST APIs, Entity Framework, and C#
+- Currently learning: Rust, and experimenting other new technologies
+- Knowledge in: ASP.NET Core, REST APIs, Entity Framework, C# and game dev
 - Background in: Software Quality Assurance, technical support, and game development with Unity (C#)
-- Expanding knowledge in: Software testing, backend architecture, and databases
+- Expanding knowledge in: Rust, backend architecture
 - Interested in: Software engineering, systems design, game development, and performance
 - Brazil 🇧🇷
 
